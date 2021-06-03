@@ -28,7 +28,7 @@ cask google-chrome
 cask keepassxc
 cask little-snitch
 cask micro-snitch
-cask microsoft-office
+cask microsoft-outlook
 cask microsoft-teams
 cask parallels
 cask path-finder
